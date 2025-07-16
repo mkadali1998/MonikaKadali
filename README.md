@@ -23,7 +23,7 @@ Hi! I’m **Monika Kadali**, a Data Analyst with a passion for transforming raw 
 
 ---
 
-> 🧪 Check out my projects in the repos below!
+> 🧪 Check out my projects in the repos!
 
 ---
 
@@ -42,7 +42,7 @@ Hi! I’m **Monika Kadali**, a Data Analyst with a passion for transforming raw 
 ## 📫 Let’s Connect!
 
 📍 Hyderabad, India 🇮🇳   
-🔗 [LinkedIn](https://linkedin.com/in/monikakadali)
+🔗 [LinkedIn](https://linkedin.com/in/monika-kadali-54a208163)
 
 ---
 
