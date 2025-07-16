@@ -13,26 +13,17 @@ My Data Analyst Portfolio
 
 ## 👩🏻‍💻 About Me
 
-Hi! I’m **Monika Kadali**, a passionate Data Analyst with a love for discovering trends and crafting powerful visual stories from data. With a strong academic background in **Advanced Computer Science (University of Leicester)** and experience at **UPS** and **Amazon**, I thrive at the intersection of data, problem-solving, and business impact.
+Hi! I’m **Monika Kadali**, a Data Analyst with a passion for transforming raw numbers into real-world insights. I hold a Master’s in Advanced Computer Science from the University of Leicester, and have industry experience at **UPS** and **Amazon**, where I worked with cross-functional teams to streamline processes, analyze complex datasets, and turn performance trends into actionable strategies.
 
 - 🧠 Skilled in **SQL**, **Python (Pandas, Matplotlib)**, **Excel**, **Tableau**
 - 📊 Built dashboards that reveal insights and streamline decision-making
 - 💼 Experienced in analyzing offshore audit reports, customer service KPIs, and large-scale operational data
-- 🌍 Explorer at heart — I’ve visited all four UK countries!
+- 🌍 Explorer at heart — so far I’ve visited 15 countries and counting...
 - 🎒 Always learning, currently working on Streamlit dashboards & advanced SQL case studies
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Tools | Summary |
-|--------|-------|---------|
-| [🚦 PCNs in Leicester Dashboard](https://github.com/yourusername/pcn-dashboard) | Streamlit, Plotly, Pandas | An interactive dashboard to explore trends in Penalty Charge Notices (PCNs) in Leicester City using open data |
-| [📊 Bike Sales Insights](https://github.com/yourusername/bike-sales-dashboard) | Excel, Power BI | Analyzed customer demographics, commute patterns, and purchase behavior |
-| [🧠 Twitter Sentiment Analyzer](https://github.com/yourusername/twitter-sentiment) | Python, NLP, Tweepy | Real-time Twitter sentiment classification using TextBlob |
-| [💼 SQL HR Analytics](https://github.com/yourusername/sql-hr-analysis) | SQL | Cleaned, joined, and queried HR datasets to uncover attrition trends and hiring patterns |
-
-> 🧪 Check out more of my projects in the pinned repos below!
+> 🧪 Check out my projects in the repos below!
 
 ---
 
@@ -50,8 +41,7 @@ Hi! I’m **Monika Kadali**, a passionate Data Analyst with a love for discoveri
 
 ## 📫 Let’s Connect!
 
-📍 Hyderabad, India 🇮🇳 (Open to remote & hybrid roles)  
-📧 [Email Me](mailto:monikakadali@email.com)  
+📍 Hyderabad, India 🇮🇳   
 🔗 [LinkedIn](https://linkedin.com/in/monikakadali)
 
 ---
