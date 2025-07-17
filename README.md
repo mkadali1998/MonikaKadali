@@ -18,7 +18,7 @@ Hi! I’m **Monika Kadali**, a Data Analyst with a passion for transforming raw 
 - 🧠 Skilled in **SQL**, **Python (Pandas, Matplotlib)**, **Excel**, **Tableau**
 - 📊 Built dashboards that reveal insights and streamline decision-making
 - 💼 Experienced in analyzing offshore audit reports, customer service KPIs, and large-scale operational data
-- 🌍 Explorer at heart — so far I’ve visited 15 countries and counting...
+- 🌍 Explorer at heart — so far I’ve traveled 15 countries and counting...
 - 🎒 Always learning, currently working on Streamlit dashboards & advanced SQL case studies
 
 ---
