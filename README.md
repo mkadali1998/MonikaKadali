@@ -4,7 +4,7 @@ My Data Analyst Portfolio - https://mkadali1998.github.io/monikakadaliportfolio.
 <h1 align="center">Hey there, I'm Monika 👋</h1>
 
 <p align="center">
-  <b>Data Analyst | SQL • Python • Tableau • Excel</b><br>
+  <b>Data Analyst | SQL • Python • Power BI • Excel</b><br>
   Turning Raw Data into Real-World Insights 🎯<br>
   <i>Ex-UPS & Amazon | MSc in Advanced Computer Science</i>
 </p>
