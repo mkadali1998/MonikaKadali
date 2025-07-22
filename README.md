@@ -47,5 +47,5 @@ Hi! I’m **Monika Kadali**, a Data Analyst with a passion for transforming raw 
 ---
 
 <p align="center">
-  <i>“In God we trust. All others must bring data.” – W. Edwards Deming</i>
+  <i>“Data tells stories — I just happen to listen better.”</i>
 </p>
