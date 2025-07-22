@@ -23,6 +23,8 @@ Hi! I’m **Monika Kadali**, a Data Analyst with a passion for transforming raw 
 
 ---
 
+## Certifications
+
 [![FreeCodeCamp: Data Analysis with Python](https://img.shields.io/badge/freeCodeCamp-Data%20Analysis%20with%20Python-0a0a23?logo=freecodecamp&logoColor=green)](https://www.linkedin.com/in/monika-kadali-54a208163/details/certifications/)
 
 [![Kaggle: Intro to Programming](https://img.shields.io/badge/Kaggle-Intro%20to%20Programming-20BEFF?logo=kaggle&logoColor=white)](https://www.linkedin.com/in/monika-kadali-54a208163/details/certifications/)
