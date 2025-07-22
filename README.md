@@ -1,5 +1,5 @@
 # MonikaKadali
-My Data Analyst Portfolio - https://mkadali1998.github.io/monikakadaliportfolio.github.io/
+My Portfolio - https://mkadali1998.github.io/monikakadaliportfolio.github.io/
 
 <h1 align="center">Hey there, I'm Monika 👋</h1>
 
@@ -23,10 +23,6 @@ Hi! I’m **Monika Kadali**, a Data Analyst with a passion for transforming raw 
 
 ---
 
-> 🧪 Check out my projects in the repos!
-
----
-
 ## 🧰 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
@@ -43,6 +39,10 @@ Hi! I’m **Monika Kadali**, a Data Analyst with a passion for transforming raw 
 
 📍 Hyderabad, India 🇮🇳   
 🔗 [LinkedIn](https://linkedin.com/in/monika-kadali-54a208163)
+
+---
+
+> 🧪 Check out my projects in the repos!
 
 ---
 
