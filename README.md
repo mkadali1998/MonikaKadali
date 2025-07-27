@@ -31,6 +31,8 @@ Hi! I’m **Monika Kadali**, a Data Analyst with a passion for transforming raw 
 
 [![Microsoft: Data Analyst Career Path](https://img.shields.io/badge/Microsoft-Data%20Analyst%20Career%20Path-0078D4?logo=microsoft&logoColor=white)](https://www.linkedin.com/in/monika-kadali-54a208163/details/certifications/)
 
+[![HackerRank: SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20Advanced-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/65097c66a0c2)
+
 [![SQL Island Completed](https://img.shields.io/badge/SQL%20Island-Completed-brightgreen?style=flat&logo=postgresql)](https://sql-island.cs.uni-kl.de/cert.php?id=567af8f247)
 
 ---
