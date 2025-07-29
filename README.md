@@ -27,13 +27,13 @@ Hi! I’m **Monika Kadali**, a Data Analyst with a passion for transforming raw 
 
 [![FreeCodeCamp: Data Analysis with Python](https://img.shields.io/badge/freeCodeCamp-Data%20Analysis%20with%20Python-0a0a23?logo=freecodecamp&logoColor=green)](https://www.linkedin.com/in/monika-kadali-54a208163/details/certifications/)
 
-[![Kaggle: Intro to Programming](https://img.shields.io/badge/Kaggle-Intro%20to%20Programming-20BEFF?logo=kaggle&logoColor=white)](https://www.linkedin.com/in/monika-kadali-54a208163/details/certifications/)
-
 [![Microsoft: Data Analyst Career Path](https://img.shields.io/badge/Microsoft-Data%20Analyst%20Career%20Path-0078D4?logo=microsoft&logoColor=white)](https://www.linkedin.com/in/monika-kadali-54a208163/details/certifications/)
 
-[![HackerRank: Python (Basic) Certified](https://img.shields.io/badge/HackerRank-Python%20Basic-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/c0c6c5505a5e)
+[![Kaggle: Intro to Programming](https://img.shields.io/badge/Kaggle-Intro%20to%20Programming-20BEFF?logo=kaggle&logoColor=white)](https://www.linkedin.com/in/monika-kadali-54a208163/details/certifications/)
 
 [![HackerRank: SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20Advanced-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/iframe/65097c66a0c2)
+
+[![HackerRank: Python (Basic) Certified](https://img.shields.io/badge/HackerRank-Python%20Basic-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/c0c6c5505a5e)
 
 [![SQL Island Completed](https://img.shields.io/badge/SQL%20Island-Completed-brightgreen?style=flat&logo=postgresql)](https://sql-island.cs.uni-kl.de/cert.php?id=567af8f247)
 
